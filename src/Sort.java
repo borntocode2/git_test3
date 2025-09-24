@@ -1,4 +1,5 @@
 public class Sort {
+
     public static void sort(int[] a) {
         for (int i = 1; i < a.length; ++i) {
             int value = a[i];
